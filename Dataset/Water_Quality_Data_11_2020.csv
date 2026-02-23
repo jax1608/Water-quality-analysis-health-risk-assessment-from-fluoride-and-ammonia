@@ -1,0 +1,153 @@
+Station code,water_bodies,Station name,DO (mg/L),pH,Conductivity (mS/cm),BOD (mg/L),Nitrate,Nitrite-N (mg/L),Fecal Coliform (MPN/100ml),Total Coliform (MPN/100ml),Faecal streptococci,Saprobity index,Diversity index,P/R Ratio,Turbidity (NTU),Phen-Alk. (mg/L),Total Alk. (mg/L),Chloride (mg/L),COD (mg/L),TKN (mg/L),Ammonia  (mg/L),Free Ammonia  (mg/L),Hardness (mg/L),Calcium (mg/L),Magnesium (mg/L),Sulphate (mg/L),Sodium (mg/L),TDS (mg/L),TFS (mg/L),TSS (mg/L),Total Phosphate (mg/L),Ortho Phosphate (mg/L),Boron (mg/L),Potassium (mg/L),Fluoride (mg/L),% Sodium,SAR
+2360,River Godavari,River Godavari at Basara,6.7,7.4,372,2.1,4,0.08,2,14,Less than  1.8,,,,8,16,88,48,22,3.9,0.4,Less than 0.01,117.58,24,14,5,12,217,151,10,,0.06,0.5,2,0.2,17.75,0.48
+4255,River Godavari,Ali sagar Reservoir,6.8,7.22,268,2.1,4,0.05,Less than  1.8,13,Less than 1.8,,,,4,12,64,40,18,2.8,0.4,Less than 0.01,94.36,18,12,5,9,155,107,10,,0.05,0.5,1,0.2,16.89,0.4
+4227,River Godavari,"Pochara Water Falls, Adilabad",6.7,7.18,473,2.1,4,0.11,26,84,11,,,,7,10,98,66,20,3.4,0.4,Less than 0.01,148,26,20,7,16,273,193,10,,0.08,0.5,2,0.2,18.73,0.57
+2361,River Godavari,"River Godavari at mancherial, Near Rail Way Bridge B/C of Rallavagu",5.8,8.01,465,2.3,0.6,,Less than 1.8,13,Less than 1.8,,,,6.2,5,180,39,24,1.5,0.4,Less than 0.01,150,37,14,22,26,288,,10,0.2,,0.5,2,0.28,26.93,0.92
+13,River Godavari,River Godavari at Mancherial,5.4,7.88,477,3.2,0.5,,Less than 1.8,Less than 1.8,Less than 1.8,,,,6.2,5,160,46,28,1.5,0.4,Less than 0.01,155,39,14,32,30,286,,10,0.2,,0.5,2,0.16,29.17,1.04
+3054,River Godavari,"Outlet of ash pond effluents of M/s.NTPC, Ramagundam",3.6,9.2,926,3,0.6,,Less than 1.8,7,Less than 1.8,,,,8,15,155,126,43,1.5,0.4,Less than 0.01,180,34,23.09,88,110,586,,16,0.26,,0.5,4,0.28,56.21,3.55
+2362,River Godavari,D/s of River Godavari at Ramagundam near FCI intake well,5.6,8.08,480,2.6,0.5,,Less than 1.8,10,Less than 1.8,,,,6.8,5,130,54,25,1.5,0.4,Less than 0.01,185,38,21.87,28,30,282,,10,0.2,,0.5,2,0.32,25.69,0.96
+2363,River Godavari,River Godavari at Godavarikhani near bathing ghat,5.7,7.58,467,2.8,0.6,,Less than 1.8,10,Less than 1.8,,,,8.8,5,155,42,32,1.5,0.4,Less than 0.01,175,44,15.79,30,32,288,,10,0.2,,0.5,2,0.2,28.06,1.05
+2364,River Godavari,River Godavari at Ramagundam upstream near dam,5.4,7.72,522,3,0.6,,Less than 1.8,11,Less than 1.8,,,,9.8,5,145,43,34,1.5,0.4,Less than 0.01,165,38,17,42,34,292,,19,0.2,,0.5,2,0.17,30.5,1.15
+2356,River Godavari,River Godavari d/s of Ramagundam at Manthani,5.4,7.75,532,2.8,0.7,,Less than 1.8,11,Less than 1.8,,,,5,5,140,55,28,1.5,0.4,Less than 0.01,215,54,19.44,38,42,304,,10,0.2,,0.5,2,0.2,29.47,1.24
+4662,River Godavari,River godavari Kaleshwaram,5.2,7.31,386,2.6,2,,Less than 1.8,11,Less than 1.8,,,,4,6,112,32,36,1.5,0.4,Less than 0.01,120,28.8,11.66,26,29,222,,22,0.2,,0.5,2,0.2,33.86,1.15
+2365,River Godavari,"U/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., intake well",6.2,7.92,305,2.8,0.96,,Less than 1.8,4,Less than 1.8,,,,9,5,94,29,20,1.5,0.4,Less than 0.01,109,24,12,17,15,190,,37,0.2,,0.5,2,0.2,22.46,0.62
+2366,River Godavari,"D/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., discharge point",6.1,8.04,312,2.6,1.12,,Less than 1.8,8,Less than 1.8,,,,7,5,95,24,23,1.5,0.4,Less than 0.01,105,22,12.15,19,22,196,,45,0.2,,0.5,2,0.2,30.65,0.93
+2367,River Godavari,U/s of river Godavari at Bhadrachalam bathing ghat,5.9,7.45,311,2.8,0.93,,Less than 1.8,11,Less than 1.8,,,,8,5,110,26,23,1.5,0.4,Less than 0.01,150,38,13.37,20,21,199,,18,0.2,,0.5,3,0.2,22.8,0.74
+2368,River Godavari,D/s of river Godavari at Bhadrachalam bathing ghat,5.7,8.01,303,2.6,1.08,,Less than 1.8,6,Less than 1.8,,,,9,5,98,24,24,1.5,0.4,Less than 0.01,113,24,13,18,19,191,,34,0.2,,0.5,2,0.24,26.14,0.77
+2369,River Godavari,River Godavari at Burgampahad,4.9,7.72,382,2.5,1.38,,Less than 1.8,4,Less than 1.8,,,,7,5,94,26,28,1.5,0.4,Less than 0.01,99,23,10,18,22,238,,24,0.2,,0.5,3,0.2,31.71,0.96
+2373,River Godavari,Kunavaram at Sabari,6.4,7.34,140,2.2,0.8,,Less than 1.8,4,Less than 1.8,,,,10.2,5,51,8,7,1.5,0.4,Less than 0.01,65,14,7.29,5,7,78,,27,0.2,,0.5,1,0.2,18.59,0.38
+4256,River Maneru / Manair,"Lower Maneru Dam, Karimnagar",4.9,7.56,420,3.2,0.6,,Less than 1.8,11,Less than 1.8,,,,3.6,5,105,60,47,1.5,0.4,Less than 0.01,110,24,12.15,36,52,260,,10,0.32,,0.5,3,0.2,49.69,2.15
+4257,River Maneru / Manair,"Maneru river D/S of municipal dump site, Karimnagar",3.6,7.02,1387,8,2.9,,Less than 1.8,17,Less than 1.8,,,,10,5,310,181,92,1.5,0.4,Less than 0.01,341,82,33,88,148,858,,21,1.52,,0.5,10,0.96,47.52,3.48
+4664,River Maneru / Manair,River Maneru at Ghattepalli (V) near Sulthanabad,3.5,8.18,782,5,0.92,,Less than 1.8,17,Less than 1.8,,,,10,5,250,97,68,1.5,0.4,Less than 0.01,262,62,26,88,78,478,,10,0.36,,0.5,4,0.4,38.71,2.09
+4665,River Maneru / Manair,Outlet of KTPP Ash Pond Joining Moranchavagu,3.8,8.03,718,5,1.6,,5,40,Less than 1.8,,,,6,6,190,88,68,1.5,0.4,Less than 0.01,188,39,22,53,54,446,,28,0.2,,0.5,4,0.2,37.66,1.71
+1158,River Maneru / Manair,"River Maneru at Somanpally (BM-Jan, Apr & Oct)",5.2,8.25,579,3.3,0.7,,2,13,Less than 1.8,,,,5,10,165,50,39,1.5,0.4,Less than 0.01,190,56,12.15,34,42,358,,10,0.2,,0.5,2,0.2,32.09,1.32
+4258,River Manjeera,"Singoor Dam Reservoir,",6.6,7.4,239,2.1,2,0.13,Less than  1.8,11,Less than 1.8,,,,6,8,48,30,18,2.8,0.4,Less than 0.01,67.9,14,8,5,7,139,102,10,,0.07,0.5,2,0.2,17.67,0.37
+1157,River Manjeera,River Manjeera at Raipally,6.7,7.46,346,2.1,2,0.14,1.8,17,Less than  1.8,,,,5,8,70,42,20,3.4,0.4,Less than 0.01,96.11,22,10,5,11,196,147,10,,0.11,0.5,2,0.2,19.42,0.49
+1781,River Manjeera,Manjeera at Ganapathi sugars,6.8,7.37,568,2.6,3,0.09,2,34,1.8,,,,8,9,94,66,24,4.5,0.4,Less than 0.01,150,30,18,9,14,356,307,10,,0.06,0.5,2,0.2,16.63,0.5
+2374,River Manjeera,U/s of River Manjeera at Gowdicherla before confluence with Nakkavagu,6.9,7.29,786,2.6,4,0.12,3.6,32,4,,,,10,15,104,74,28,5,0.4,Less than 0.01,160,34,18,10,22,467,398,10,,0.09,0.5,4,0.2,22.46,0.76
+2375,River Manjeera,D/s of River Manjeera at Gowdicherla after confluence with Nakkavagu,6.8,7.26,784,3,4,0.14,4,38,2.8,,,,12,18,118,84,30,5.6,0.4,Less than 0.01,180.49,36,22,13,26,463,354,10,,0.11,0.5,5,0.2,23.11,0.84
+2349,River Manjeera,Nakka vagu at Bachugudem,2.3,7.25,1209,8,6,0.17,24,220,14,,,,17,20,164,146,84,15.1,0.4,Less than 0.01,303,62,36,14,41,742,542,15,,0.14,0.5,5,0.2,22.25,1.02
+4226,River Manjeera,River Manjeera at Yedu Payala Temple,6.8,7.17,414,2.1,3,0.08,Less than 1.8,24,Less than 1.8,,,,5,8,86,48,18,3.4,0.4,Less than 0.01,124,26,14,8,11,257,210,10,,0.18,0.5,2,0.2,15.96,0.43
+2372,River Kinnerasani,Kinnerasani after confluence of KTPS ash pond effluents,5.4,7.95,475,2.8,0.82,,Less than 1.8,24,Less than 1.8,,,,10,5,115,36,24,1.5,0.4,Less than 0.01,190,52,14.58,24,26,301,,10,0.2,,0.5,4,0.38,22.39,0.82
+3080,River Kinnerasani,U/s of Karakavagu at Paloncha,4.8,7.72,655,2.9,1.28,,Less than 1.8,4,Less than 1.8,,,,6,5,185,68,42,1.5,0.4,Less than 0.01,184,42,24,31,40,403,,19,0.2,,0.5,3,0.62,29.4,1.21
+3081,River Kinnerasani,D/s of Karakavagu at Paloncha,4.5,7.75,566,3,1.45,,Less than 1.8,6,Less than 1.8,,,,18.2,5,195,58,36,1.5,0.4,Less than 0.01,204,44,18,28,49,350,,26,0.2,,0.5,3,0.6,36.06,1.57
+1784,River Krishna ,River Krishna at Thangadi,6.1,8.01,572,2.1,3,,Less than 1.8,27,Less than 1.8,,,,10,5,150,78,26,1.5,0.4,Less than 0.01,175,36,20.66,48,62,358,,11,0.2,,0.5,3,0.2,42.83,2.03
+39,River Krishna ,"River Krishna at Gadwal bridge (BM-Jan, Apr & Oct)",6.3,7.83,651,2.1,3.2,,Less than 1.8,17,Less than 1.8,,,,7,5,155,92,26,1.5,0.4,Less than 0.01,180,44,17.01,40,68,396,,10,0.2,,0.5,3,0.2,44.45,2.2
+4225,River Krishna ,"Jogulamba Temple, Gadwal",6.2,8.43,720,2.2,4,,Less than 1.8,24,Less than 1.8,,,,8.6,5,138,98,28,1.5,0.4,Less than 0.01,185,47.2,16.28,52,66,444,,12,0.2,,0.5,2,0.2,43.23,2.1
+4259,River Krishna ,Nagarjuna Sagar Dam Spill way,6.9,7.4,369,2.2,4,0.13,4,25,2,,,,8,8,82,44,24,4.5,0.4,Less than 0.01,104.35,22,12,5,13,213,142,10,,0.13,0.5,3,0.2,20.61,0.55
+4252,River Krishna ,"Udaya Samudram balancing Reservoir,",6.6,7.48,433,2.2,4,0.09,1.8,21,Less than  1.8,,,,9,8,98,58,20,3.4,0.4,Less than 0.01,134.05,24,18,7,16,251,173,10,,0.19,0.5,3,0.2,20.03,0.6
+1465,River Krishna ,Confluence of River krishna & River musi at at wadapally,6.8,7.17,529,2.4,4,0.14,21,110,12,,,,10,12,116,74,26,4.5,0.4,Less than 0.01,170,32,22,8,17,325,251,11,,0.22,0.5,3,0.2,17.39,0.56
+4663,River Krishna ,"River Krishna at Mattepally, 500 mts. before bathing ghat",6.7,7.46,422,2.1,4,0.06,2,22,1.8,,,,7,12,96,47,16,2.8,0.4,Less than 0.01,117.58,24,14,5,11,246,239,10,,0.16,0.5,4,0.2,16.23,0.44
+1215,River Krishna ,River Maneru at Thummala cheruvu/Madannapet,6.8,8.01,320,2.1,4,,Less than 1.8,4,Less than 1.8,,,,12,5,90,42,24,1.5,0.4,Less than 0.01,110,31.2,7.78,24,29,203,,11,0.2,,0.5,2,0.16,35.82,1.2
+4250,River Krishna ,"Palair Reservoir, Khammam",5.8,8.12,497,2.8,1.24,,Less than 1.8,4,Less than 1.8,,,,2.6,5,140,61,29,1.5,0.4,Less than 0.01,155,36,15.79,32,42,308,,10,0.2,,0.5,3,0.5,36.38,1.46
+4251,River Krishna ,"D/S of Munneru River, Prakash Nagar, Khammam",5.6,7.94,536,3,1.81,,Less than 1.8,11,Less than 1.8,,,,11,5,150,45,36,1.5,0.4,Less than 0.01,170,52,9.72,36,36,332,,10,0.2,,0.5,4,0.53,30.82,1.2
+4253,River Musi,Musi sample at Bapughat sangam U/S of Musi,0.3,7.65,1116,6,4.72,,63,540,Less than 1.8,,,,12.8,5,285,142,71,1.5,0.4,Less than 0.01,340,74,37.66,76,102,664,,18,1.62,,0.5,8,0.82,38.64,1.7
+4656,River Musi,"River Musi at Moosarambagh bridge, Hyderabad",0.3,6.76,1090,5,11.36,,110,920,Less than 1.8,,,,32.8,5,245,164,54,1.5,0.4,Less than 0.01,300,80,24.3,92,120,768,,42,0.36,,0.5,14,1.08,44.97,2.1
+2339,River Musi,River Musi at Nagole,0.3,7.21,1206,9,6.83,,220,1600,Less than 1.8,,,,12.6,5,280,123,86,1.5,0.4,Less than 0.01,320,84,26.73,105,108,760,,34,0.38,,0.5,9,0.98,41.36,1.9
+4659,River Musi,"Outlet of Nalla Cheruvu, Peerajadiguda",0.3,7.77,1842,7,2,,33,74,Less than 1.8,,,,13,5,295,270,88,8,1.8,0.07,320,60,41.31,155,240,1166,,76,0.18,,0.5,3,0.2,61.55,5.8
+4660,River Musi,River Musi at Peerajadiguda,0.3,7.24,1260,8,5.28,,84,540,Less than 1.8,,,,14.2,5,285,132,102,1.5,0.4,Less than 0.01,330,88,26.73,103,110,791,,24,0.4,,0.5,10,1.12,40.99,1.9
+1173,River Musi,"D/s. of Musi at Pratapasingaram (BM-Jan, Apr & Oct)",2.1,7.01,1134,8,6.28,,27,540,Less than 1.8,,,,5.2,5,245,125,98,1.5,0.4,Less than 0.01,320,92,21.87,109,96,772,,12,0.38,,0.5,8,1.08,38.64,1.6
+4657,River Musi,River Musi at Pillapalli,3.9,6.99,1120,12,4.86,,74,430,Less than 1.8,,,,8.6,5,220,158,75,1.5,0.4,Less than 0.01,280,60,31.59,96,118,758,,12,0.37,,0.5,13,1.1,46.24,2.2
+4254,River Musi,River Musi sample at Rudravelly bridge,5.6,7.4,872,4.6,7,0.18,10,63,Less than 1.8,,,,11,24,174,118,22,5.6,0.4,Less than 0.01,256,56,28,16,31,511,345,10,,0.24,0.5,7,0.2,20.24,0.48
+4658,River Musi,"River Musi at Valigonda bridge, Nalgonda dist",5.8,7.22,655,4.3,5,0.15,6,58,Less than 1.8,,,,9,16,170,110,22,5,0.4,Less than 0.01,244,52,28,14,29,480,331,10,,0.17,0.5,4,0.2,20.02,0.4
+3082,River Musi,River Musi at Solipet (Kasaniguda),5.9,7.18,573,2.1,5,0.12,2.1,20,Less than 1.8,,,,6,12,138,72,20,4.5,0.4,Less than 0.01,190.48,40,22,12,17,329,229,10,,0.19,0.5,3,0.2,15.9,0.57
+1172,Lakes & Tanks ,"U/s of Musi at Gandipet (Osmansagar lake) (BM-Jan, Apr & Oct)",6.5,7.86,322,2.2,0.9,,Less than 1.8,11,Less than 1.8,,,,3.8,5,90,34,16,1.5,0.4,Less than 0.01,94,18.4,11.66,16,26,182,,10,1.05,,0.5,4,0.68,36.17,0.8
+1780,Lakes & Tanks ,Gandigudem Tank,6,7.02,936,5,6,0.19,4,58,1.8,,,,9,16,194,112,46,8.4,,Less than 0.01,587,59,34,25,32,569,432,15,,0.23,0.5,6,0.2,18.98,0.82
+2358,Lakes & Tanks ,Mallapur tank,0.3,7.63,2065,16,4,,240,920,Less than 1.8,,,,39.6,5,365,288,182,8,2.8,0.1,395,78,48.6,152,242,1227,,87,0.87,,0.5,8,0.2,56.34,5.28
+2347,Lakes & Tanks ,Asani Kunta,0.3,7.01,8690,254,26,0.37,34,540,15,,,,173,36,780,816,1014,182,,Less than 0.01,1468,299,175,123,198,5194,3875,109,,0.31,0.5,41,0.41,21.96,2.24
+1783,Lakes & Tanks ,Kistareddypet Tank,5.9,6.92,1323,7,8,0.11,10,63,Less than  1.8,,,,12,24,216,160,72,13.6,,Less than 0.01,336.27,72,38,24,41,796,593,13,,0.12,0.5,7,0.2,20.42,0.97
+2348,Lakes & Tanks ,Khazipally Tank,4.9,6.85,2248,4,13,0.14,2,41,Less than  1.8,,,,11,28,258,254,38,7.3,,Less than 0.01,413,86,48,36,57,1385,1086,10,,0.11,0.5,11,0.2,22.41,1.22
+4302,Lakes & Tanks ,Rudraram Tank,6.3,6.72,875,2.8,6,0.12,2,48,Less than  1.8,,,,6,16,162,122,26,4.5,,Less than 0.01,227,48,26,18,29,529,398,10,,0.09,0.5,2,0.2,21.45,0.83
+4240,Lakes & Tanks ,"Muthangi Tank,",5.4,7.26,249,3.2,4,0.11,1.8,17,Less than  1.8,,,,4,8,64,32,30,5.6,,Less than 0.01,86.13,18,10,5,7,144,103,10,,0.13,0.5,2,0.2,14.57,0.33
+4241,Lakes & Tanks ,"Chitkul Tank,",5.2,6.92,789,5,7,0.17,8.1,94,2,,,,7,12,152,98,42,7.8,,Less than 0.01,198,43,22,8,23,482,355,10,,0.12,0.5,4,0.2,19.66,0.71
+4242,Lakes & Tanks ,"Lakadaram Cheruvu,",5.5,6.64,610,3.6,4,0.12,6,63,1.8,,,,9,12,126,70,34,6.2,,Less than 0.01,168,34,20,11,21,372,342,10,,0.14,0.5,3,0.2,20.96,0.7
+4243,Lakes & Tanks ,"Isnapur Tank,",4.9,6.83,1905,9,13,0.21,17,170,1.8,,,,15,20,268,270,82,14.6,,Less than 0.01,494,102,58,29,57,1086,843,14,,0.21,0.5,8,0.2,19.64,1.11
+4246,Lakes & Tanks ,Pashamylaram Tank,Pashamylaram & Isnapur tanks both are same but called by different names.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1789,Lakes & Tanks ,"Himayathsagar lake (BM-Jan, Apr & Oct)",6.8,8.18,324,2.2,0.69,,Less than 1.8,8,Less than 1.8,,,,7,5,92,38,16,1.5,0.4,Less than 0.01,98,18,12.88,14,29,185,,10,0.62,,0.5,3,0.37,38.08,1.27
+3069,Lakes & Tanks ,"Shameerpet lake, Shameerpet",5.7,7.44,408,2.8,1.6,,10,120,Less than 1.8,,,,7,5,106,52,24,1.5,0.4,Less than 0.01,116,24,13.61,19,38,269,,10,0.36,,0.5,3.2,0.31,40.61,1.53
+3078,Lakes & Tanks ,"Pragathinagar cheruvu, Kukatpally",1.2,7.66,1368,12,1.54,,63,430,Less than 1.8,,,,8.66,5,255,230,131,6,2.8,0.08,295,74,26.73,112,188,802,,12,1.88,,0.5,4,0.23,57.55,4.75
+2340,Lakes & Tanks ,Lakshminarayana cheruvu,5.8,7.42,1084,3,0.66,,4,240,Less than 1.8,,,,16.4,10,185,182,38,1.5,0.4,Less than 0.01,225,52,23.09,84,124,690,,14,1.12,,0.5,6,0.2,53.54,3.58
+1788,Lakes & Tanks ,"Saroornagar Lake (BM-Jan, Apr & Oct)",1.1,6.78,1168,10,2.14,,70,920,Less than 1.8,,,,12.8,5,235,196,119,8,2.8,0.01,250,60,24.3,88,162,706,,16,1.08,,0.5,8,0.45,57.39,4.44
+4234,Lakes & Tanks ,"Umda sagar lake, Shamshabad",2.2,6.73,893,6,1.8,,34,430,9,,,,10,5,140,142,59,1.5,0.4,Less than 0.01,165,32,20.66,56,68,541,,10,0.2,,0.5,7,0.52,45.79,2.29
+1464,Lakes & Tanks ,Bibinagar Tank,6,7.4,460,3,2,0.14,4,39,Less than 1.8,,,,4,8,94,44,26,4.5,,Less than 0.01,117.58,24,14,5,11,276,196,10,,0.14,0.5,2,0.2,16.51,0.44
+3068,Lakes & Tanks ,Ramappa lake,6.2,7.42,187,2.2,0.56,,Less than 1.8,14,Less than 1.8,,,,2.8,5,55,17,10,1.5,0.4,Less than 0.01,80,16,9.72,10,13,115,,10,0.2,,0.5,1,0.36,25.68,0.63
+1447,Lakes & Tanks ,Dharmasagar tank,6.4,7.68,369,2.1,2,,Less than 1.8,17,Less than 1.8,,,,3,5,83,44,28,1.5,0.4,Less than 0.01,95,18,12.15,24,38,244,,10,0.2,,0.5,2,0.2,45.69,1.69
+2346,Lakes & Tanks ,Bhadrakali tank,6.2,7.78,518,2.6,1.8,,Less than 1.8,11,Less than 1.8,,,,6,5,105,72,26,1.5,0.4,Less than 0.01,120,26,13.37,24,58,332,,10,0.2,,0.5,6,0.2,49.55,2.3
+3084,Lakes & Tanks ,"Waddepally tank, Kazipet",5.6,7.92,405,3,1.31,,Less than 1.8,33,Less than 1.8,,,,6.6,5,120,36,24,1.5,0.4,Less than 0.01,130,28,14.58,12,33,249,,10,0.2,,0.5,3,0.2,34.77,1.25
+3085,Lakes & Tanks ,Chinnawaddepally tank,2.8,6.86,868,4,3.2,,10,210,,,,,20,5,160,102,64,1.5,0.4,Less than 0.01,285,38,25,42,86,512,,26,0.2,,0.5,6,0.2,47.47,2.65
+2343,Lakes & Tanks ,Premajipet tank,1.9,8.45,2129,16,3.99,,Less than 1.8,34,,,,,16.6,5,285,318,201,6,0.56,0.1,415,92,44.95,142,230,1288,,26,1.91,,0.5,14,0.42,53.46,4.9
+2345,Lakes & Tanks ,Sai Cheruvu,2.8,8.02,2491,22,3,,12,220,2,,,,22.2,6,286,450,244,7,0.4,Less than 0.01,523,168,25,172,372,1596,,28,6,,0.5,8,0.36,60.21,7.06
+4222,Lakes & Tanks ,"Koneru, Kondagattu temple, Jagitiyal","Sample couldn,t collected as source points were dried up",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4223,Lakes & Tanks ,"Vemulawada temple Koneru , Karimnagar","Sample couldn,t collected as source points were dried up",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4228,Lakes & Tanks ,"Ibrahim Cheruvu, Rajendra Nagar",0.3,7.02,1246,8,1.2,,27,430,Less than 1.8,,,,9.6,5,405,132,96,4,1,0.06,420,98,42.52,78,118,784,,12,1.88,,0.5,4,1.28,37.51,2.5
+4230,Lakes & Tanks ,Kistaipally Cheruvu,4.4,7.31,2031,4.5,13,0.13,11,47,2,,,,13,28,324,262,44,7.8,,,516.49,98,66,22,63,1338,827,10,,0.17,0.5,12,0.2,20.37,1.2
+4231,Lakes & Tanks ,"Rayam Cheruvu,",5,7.25,346,2.8,4,0.07,4,110,Less than  1.8,,,,4,8,88,46,22,3.9,,,117.58,24,14,5,11,202,145,10,,0.11,0.5,3,0.2,16.37,0.44
+4232,Lakes & Tanks ,"Komati Cheruvu,",6.6,7.02,323,2.2,2,0.08,1.8,34,Less than  1.8,,,,5,4,82,40,20,3.4,,,104.35,22,12,5,11,186,126,10,,0.13,0.5,2,0.2,18.19,0.47
+4235,Lakes & Tanks ,Lake Kamuni( Shamshabad Lake),4.6,7.06,645,2.6,0.98,,17,74,Less than 1.8,,,,6.6,5,185,62,52,1.5,0.4,Less than 0.01,235,52,25.52,48,40,402,,10,0.2,,0.5,2,0.2,26.69,1.13
+4233,Lakes & Tanks ,"Gaddapotharam cheruvu,",4,7.09,2630,8,14,0.21,17,210,4,,,,14,24,324,274,78,14,,,520.0,106,62,31,72,1578,1217,14,,0.19,0.5,15,0.21,22.39,1.37
+4238,Lakes & Tanks ,"Ameenpur Cheruvu,",5.8,6.92,764,4.6,4,0.17,10,110,2,,,,11,16,160,98,44,7.8,,,220.18,42,28,14,21,463,334,10,,0.12,0.5,6,0.2,16.6,0.61
+4239,Lakes & Tanks ,"Mahaboobsagar Tank,",5.7,7.14,641,4,3,0.13,6,70,1.8,,,,12,14,110,78,36,6.7,,,176,38,20,9,19,376,387,10,,0.11,0.5,2,0.2,18.59,0.62
+4244,Lakes & Tanks ,"Erdanoor Tank,",6.3,6.81,420,2.4,4,0.11,4,47,2,,,,7,16,92,48,20,3.4,,,104.35,22,12,5,11,245,169,10,,0.19,0.5,2,0.2,18.19,0.47
+4245,Lakes & Tanks ,"Mallepally Tank,",6,7.36,642,3,4,0.08,8,31,Less than 1.8,,,,4,13,118,78,26,4.5,,,146,32,16,5,19,396,294,10,,0.11,0.5,2,0.2,21.68,0.68
+4247,Lakes & Tanks ,"Mucharla Nagaram cheruvu, Warangal",4.1,8.02,612,3.4,2.24,,11,240,Less than 1.8,,,,3.2,5,180,64,36,1.5,0.4,Less than 0.01,195,48,18.22,27,52,382,,10,0.28,,0.5,4,0.78,35.99,1.62
+4248,Lakes & Tanks ,"Koti Cheruvu, Hanamkonda, Warangal",3.8,7.43,942,6,3,,6,120,Less than 1.8,,,,14,5,165,132,84,1.5,0.4,Less than 0.01,182,34,23.57,66,101,584,,17,0.22,,0.5,8,0.2,53.16,3.24
+4229,Lakes & Tanks ,Neknampur Lake,3.7,7.18,1196,4,1.36,,4,140,Less than 1.8,,,,8.6,5,360,140,58,1.5,0.4,,380,92,36.45,78,120,742,,10,1.8,,0.5,4,0.24,40.27,2.67
+4249,Lakes & Tanks ,"Rangasamudram, Warangal",2.6,7.24,775,6,3,,8,170,Less than 1.8,,,,6.8,5,160,98,73,1.5,0.4,Less than 0.01,185,38,21.87,42,80,460,,12,0.27,,0.5,4,0.2,47.63,2.55
+4661,Lakes & Tanks ,Peddakanjarla Tank,6.9,6.64,156,2.4,1,0.14,2,21,1.8,,,,5,5,38,18,28,5,,,49.68,10,6,5,5,88,65,10,,0.05,0.5,1,0.2,17.49,0.31
+4666,Lakes & Tanks ,Ismailkhanpet Tank,6.8,7.05,292,2.8,4,0.17,4,17,Less than  1.8,,,,4,5,74,38,30,5.6,,,100,20,12,5,9,168,104,10,,0.12,0.5,2,0.2,16.02,0.39
+4670,Lakes & Tanks ,"Bairamalaguda Cheruvu, Medchal-Malkajigiri District.",3.8,6.92,513,2.2,0.3,,6,210,Less than 1.8,,,,8.2,5,105,68,36,1.5,0.4,Less than 0.01,120,26,13.37,28,56,320,,10,0.2,,0.5,2,0.68,49.69,2.22
+4675,Lakes & Tanks ,"Lotus pond, Hakimpet (V), Shaik pet (new mandal)",3.2,6.85,684,3,3.26,,4,79,Less than 1.8,,,,4.6,6,190,76,38,1.5,0.4,Less than 0.01,205,44,23.09,36,56,430,,10,0.23,,0.5,4,0.92,36.55,1.7
+4680,Lakes & Tanks ,Laknavaram lake,6.2,7.47,122,2.1,0.4,,2,110,Less than 1.8,,,,3.6,5,35,13,8,1.5,0.4,Less than 0.01,40,8,4.86,5,8,72,,12,0.2,,0.5,1,0.31,29.52,0.55
+4681,Lakes & Tanks ,Pakala lake Narsampet,5.4,7.93,247,2.6,2,,11,110,5,,,,7.2,5,77,16,30,1.5,0.4,Less than 0.01,80,14,10.94,18,19,144,,10,0.2,,0.5,3,0.2,32.86,0.92
+4682,Lakes & Tanks ,Bandham Cheruvu,5.6,7.5,808,3,4,,74,430,Less than 1.8,,,,10,5,160,95,38,1.5,0.4,,220,44,26.73,72,76,518,,18,0.2,,0.5,3,0.2,42.32,2.22
+4688,Lakes & Tanks ,"Narinja River, Kothur - B (V), Zaheerabad",6.7,7.36,254,2.6,2,0.15,7,31,1.8,,,,6,8,64,34,24,4.5,,,86.13,18,10,5,8,148,107,10,,0.08,0.5,2,0.2,16.31,0.37
+1391,Lakes & Tanks ,Hussain sagar Lake,0.4,7.02,1211,12,4.5,,220,920,Less than 1.8,,,,17,5,215,156,134,6,3.2,0.02,230,64,17.01,88,172,750,,42,0.54,,0.5,4,0.73,61.31,4.92
+3071,Lakes & Tanks ,Langarhouse lake,1.8,7.68,1166,5,2.45,,10,240,Less than 1.8,,,,11.4,5,230,176,64,1.5,0.4,Less than 0.01,285,66,29.16,82,145,710,,18,1.12,,0.5,8,0.82,51.51,3.72
+2341,Lakes & Tanks ,Miralam tank,1.5,8.2,1048,10,1.1,,8,220,Less than 1.8,,,,14.8,5,225,170,127,9,2.2,0.2,240,52,26.73,68,136,628,,14,0.86,,0.5,5,1.08,54.4,3.81
+3073,Lakes & Tanks ,"Hasmathpet lake, Hasmathpet",0.3,7.5,1427,15,4,,17,240,Less than 1.8,,,,18,5,280,188,98,1.5,0.4,Less than 0.01,325,72.8,34.75,102,152,885,,37,0.2,,0.5,3,0.58,49.98,3.66
+3072,Lakes & Tanks ,Safilguda lake,0.3,7.55,1183,7,5,,15,240,Less than 1.8,,,,13,5,195,136,97,1.5,0.4,Less than 0.01,286,53.6,36.94,101,110,720,,10,0.2,,0.5,6,0.63,44.72,2.82
+3075,Lakes & Tanks ,Rangadhamuni cheruvu,2.8,7.25,998,5,1.1,,6,220,Less than 1.8,,,,8.6,5,265,94,52,1.5,0.4,Less than 0.01,350,82,35.23,66,78,628,,12,0.93,,0.5,4,0.71,32.21,1.81
+3076,Lakes & Tanks ,"Amber cheruvu, Kukatpally",1.3,7.31,1346,12,1.78,,41,430,Less than 1.8,,,,18.2,5,205,230,139,6,1.8,0.02,285,64,30.38,111,184,812,,22,0.57,,0.5,6,0.96,57.62,4.73
+3077,Lakes & Tanks ,"Kapra cheruvu, Kapra",4.6,7.58,1139,10,4.1,,17,210,Less than 1.8,,,,14,5,210,182,116,5,1.8,0.04,230,51.2,24.79,68,134,720,,15,0.6,,0.5,6,0.86,54.93,3.83
+2357,Lakes & Tanks ,Durgam cheruvu,3.8,7.98,814,7,1.1,,5,170,Less than 1.8,,,,9.62,5,145,156,83,1.5,0.4,Less than 0.01,135,30.4,14.34,50,126,476,,12,0.76,,0.5,5,0.89,65.83,4.7
+2344,Lakes & Tanks ,Nalla cheruvu,1.3,7.73,1568,10,3,,11,240,Less than 1.8,,,,10,5,258,278,118,8,2.2,0.07,265,48,35.23,116,202,973,,25,0.43,,0.5,8,0.48,61.31,5.38
+2359,Lakes & Tanks ,Pedda cheruvu,0.3,7.59,1316,13,4.4,,24,350,Less than 1.8,,,,12,5,275,176,148,5,2.8,0.07,295,58.4,36.21,63,142,843,,11,0.39,,0.5,8,0.54,50.13,3.58
+2342,Lakes & Tanks ,Noor Md. Kunta,0.3,7.66,1516,14,3.9,,18,220,Less than 1.8,,,,19.6,5,315,288,155,6,2.4,0.07,380,78,44.95,166,240,938,,28,1.86,,0.5,6,1.12,57.22,5.34
+3070,Lakes & Tanks ,"Fox sagar, Jeedimetla",4.8,7.35,1066,7,3,,21,280,Less than 1.8,,,,10,5,200,126,89,1.5,0.4,Less than 0.01,238,54,25,65,102,602,,20,0.46,,0.5,8,0.2,47.06,2.87
+3074,Lakes & Tanks ,Banjara Lake,0.3,7.78,1144,12,1.51,,22,280,Less than 1.8,,,,6.82,5,230,202,139,4,3.2,0.1,285,64,30.38,84,162,738,,23,1.49,,0.5,8,0.99,54.26,4.16
+4236,Lakes & Tanks ,Pedda Cheruvu (Nacharam cheruvu),"Letter was addressed to CPCB dated:26.10.2018 to relocate with Pedda Cheruvu, Gajularamaram",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3086,Lakes & Tanks ,Saki Tank,6.1,7.12,891,4,3,0.15,4,43,1.8,,,,7,12,108,142,36,9,,,235,56,23,8,19,543,398,11,,0.15,0.5,4,0.21,14.63,0.54
+4237,Lakes & Tanks ,"Mullakatwa Cheruvu, Hi Tech City, Madhapur,",0.3,7.13,1222,6,1.12,,23,430,Less than 1.8,,,,8.24,5,375,130,78,1.5,0.4,Less than 0.01,390,78,47.38,68,108,758,,12,2.84,,0.5,4,1.1,37.13,2.37
+4667,Lakes & Tanks ,"Surram Cheruvu (Palle Cheruvu), Bandlaguda (V), Bandlaguda (new mandal)",1.3,6.78,1081,8,4.75,,4,120,Less than 1.8,,,,10,5,130,148,96,1.5,0.4,Less than 0.01,265,60,27.95,95,127,657,,10,0.22,,0.5,9,1.03,49.83,3.38
+4668,Lakes & Tanks ,"Chinnarayan Cheruvu, Alwal (V)",0.3,7.25,1452,9,6.12,,12,210,Less than 1.8,,,,10.2,5,345,160,101,1.5,0.4,Less than 0.01,395,88,42.52,102,114,900,,16,0.3,,0.5,8,1,37.82,2.49
+4669,Lakes & Tanks ,"Pedd Cheruvu, Gangaram (V), Serilingarampally (New Mandal)",0.3,7.09,1122,6,10.62,,17,240,Less than 1.8,,,,9.6,5,240,160,92,1.5,0.4,Less than 0.01,280,66,27.95,99,142,706,,84,0.26,,0.5,7,1.09,51.53,3.68
+4671,Lakes & Tanks ,"Medi Kunta, Guttala begumpet (V)",Sample not collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4672,Lakes & Tanks ,"Medi Kunta (Wipro Lake), Nanakramguda",4.2,8.4,887,4,0.96,,4,380,Less than 1.8,,,,12.8,5,210,106,36,1.5,0.4,Less than 0.01,240,62,20.66,43,86,520,,17,0.42,,0.5,6,0.58,42.91,2.41
+4673,Lakes & Tanks ,Medikunta lake (BK Enclave),0.3,7.24,835,6,1.28,,6,280,Less than 1.8,,,,2.6,5,196,83,72,1.5,0.4,Less than 0.01,220,48,24.3,43,92,510,,10,0.2,,0.5,8,0.58,46.35,2.69
+4674,Lakes & Tanks ,"Meedi Kunta, Hafeezpet (V), Serlingampally",0.3,7.71,729,4,1.16,,2,170,Less than 1.8,,,,8.02,5,165,86,58,1.5,0.4,Less than 0.01,140,30,15.79,39,76,441,,10,0.62,,0.5,6,0.96,52.66,2.78
+4676,Lakes & Tanks ,"Banda Cheruvu, Malkajigiri (V),Malkajigiri (new mandal)",0.3,7.08,1421,8,2.96,,12,280,Less than 1.8,,,,18,5,330,158,98,1.5,0.4,Less than 0.01,385,72,49.81,81,128,881,,36,0.28,,0.5,14,1.2,40.69,2.83
+4677,Lakes & Tanks ,"Lingam Cheruvu, Suraram (V), Quthubullapur",2.1,7.14,1267,7,2.84,,8,170,Less than 1.8,,,,8.5,5,240,122,95,1.5,0.4,Less than 0.01,305,60,37.66,93,111,797,,10,0.33,,0.5,16,1.02,42.43,2.75
+4678,Lakes & Tanks ,"Sample collected from Patel Cheruvu, Nacharam, Medchal-Malkajigiri District.",0.3,7.7,1492,8,0.78,,11,430,Less than 1.8,,,,14.2,5,275,212,98,4,1,0.03,290,58,35.23,88,172,904,,16,1.02,,0.5,8,0.97,55.31,4.38
+4679,Lakes & Tanks ,HUDA Park Lake,2.6,7.03,2074,10,2.38,,10,430,Less than 1.8,,,,12.4,5,510,296,118,10,1.8,0.01,560,118,64.39,182,256,1244,,18,3.72,,0.5,10,1.08,49.13,4.69
+4683,Lakes & Tanks ,"Pedda cheruvu, Madikonda",5.5,7.52,456,2.8,1.58,,Less than 1.8,33,Less than 1.8,,,,3.2,5,140,40,26,1.5,0.4,Less than 0.01,180,38,20.66,23,32,262,,10,0.2,,0.5,3,0.26,27.34,1.03
+4684,Lakes & Tanks ,Campus Lake Icrisat,6,7.26,158,2.2,2.4,0.16,14,170,4,,,,4,8,44,23,20,3.4,,Less than 0.01,49.68,10,6,5,5,90,81,10,,0.08,0.5,1,0.2,17.49,0.31
+4685,Lakes & Tanks ,Surisigal Lake Icrisat,6.4,7.13,242,2.4,2,0.16,31,430,9,,,,4,8,52,26,22,3.9,,Less than 0.01,64,12,8,5,9,138,95,10,,0.09,0.5,2,0.2,22.89,0.49
+4686,Lakes & Tanks ,Icrisat Lake,6.4,6.55,294,3,1.4,0.09,9.1,130,1.8,,,,3,8,48,38,26,4.5,,Less than 0.01,72,17,9,5,8,182,124,10,,0.11,0.5,1,0.2,17.63,0.39
+4687,Lakes & Tanks ,Red Lake Icrisat,6.6,6.62,345,3.2,4.6,0.14,6,110,1.8,,,,4,8,57,39,28,5,,Less than 0.01,88,17,11,5,7,198,138,10,,0.13,0.5,2,0.21,14.34,0.32
+4689,Lakes & Tanks ,"Sunnam Kunta, Jubille hills",3.6,7.08,636,4.2,2.84,,2,66,Less than 1.8,,,,2.4,5,202,66,51,1.5,0.4,Less than 0.01,245,54,26.73,29,48,397,,10,0.2,,0.5,3,0.88,29.43,1.33
+4690,Lakes & Tanks ,"Banjara Kunta (Singadi Kunta), Shaikpet",Sample not collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4691,Lakes & Tanks ,"Nagole Cheruvu, Uppal Malkajigiri District.",0.3,7.06,1292,8,0.82,,24,430,Less than 1.8,,,,13.9,5,280,168,92,2,1,0.08,340,74,37.66,72,136,740,,12,0.86,,0.5,6,0.95,45.82,3.2
+4692,Lakes & Tanks ,"Ramanthapur Cheruvu, Medchal-Malkajigiri District.",Lake sample were not collected as there wasno acess to collect water in the lake.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4693,Lakes & Tanks ,"Patel Cheruvu, Madeenaguda, Miyapur",2.2,7.2,1051,6,2.63,,17,350,Less than 1.8,,,,10.2,5,208,126,59,1.5,0.4,Less than 0.01,255,64,23.09,74,102,660,,12,0.67,,0.5,10,0.87,45.18,2.77
+4694,Lakes & Tanks ,Mundla Katwa Lake,"4237 & 4694 BOTH ARE SAMPLE i.e., OLD 4237 DATA HAS TO BE TAKEN (4694 TO REPLACE)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4695,Lakes & Tanks ,"Khaja Kunta, Kukatpally (V)",Lake sample were not collected as there wasno acess to collect water in the lake.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4696,Lakes & Tanks ,"Parki Cheruvu, Kukatpally (V), Balanagar",3.8,7.66,1043,23,11,0.02,Less than 1.8,13,,,,,6,24,332,105,61,19,8,0.2,276,70,24,43,109,578,,12,4,,0.5,13,0.52,45,2.9
+4697,Lakes & Tanks ,"Mukkidi Cheruvu (Ramakrishnapuram Lake), Malkajigri",Lake sample were not collected as lake  was dried up,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4698,Lakes & Tanks ,"Mannevari Kunta, Machabollaram (V), Alwal",1.6,7.36,1146,9,1.93,,34,240,Less than 1.8,,,,8.6,5,260,170,96,1.5,0.4,Less than 0.01,295,60,35.23,88,112,722,,14,0.66,,0.5,12,1.13,43.82,2.83
+4699,Lakes & Tanks ,"Kaprai Cheruvu, RamanthpurMedchal-Malkajigiri District.",1.2,7.03,590,3,0.37,,34,280,Less than 1.8,,,,14.4,5,110,78,40,1.5,0.4,Less than 0.01,125,28,13.37,54,68,366,,14,0,,0.5,6,0.88,52.57,2.64
+4700,Lakes & Tanks ,"Large tank, Saroornagar, Rangareddy District.",0.3,7.16,1434,10,0.62,,63,280,Less than 1.8,,,,14.8,5,285,184,82,1.5,0.4,Less than 0.01,310,66,35.23,92,152,860,,14,0.98,,0.5,8.2,0.96,50.62,3.74
+4701,Lakes & Tanks ,"Lingam kunta lake Chandanagar,Serilingampally, Rangareddy (Dist)",1.2,7.34,1186,6,1.76,,15,170,Less than 1.8,,,,18.2,5,257,142,81,1.5,0.4,Less than 0.01,272,51,35,92,113,747,,23,0.75,,0.5,10,1.1,46.19,2.97
+4702,Lakes & Tanks ,"Pedda Cheruvu - Khaja guda, Khajaguda (V), Serlingampally (new mandal)",4,7.46,1053,11,40,0.02,49,240,Less than 1.8,,,,,5,284,107,48,4,0.4,Less than 0.01,348,97,26,28,113,632,537,16,2.88,,0.5,10,0.09,40.32,2.62
+4703,Lakes & Tanks ,Bulbubu kunta,0.3,7.09,1813,16,1.36,,110,430,Less than 1.8,,,,11.2,5,460,232,120,12,2.8,0.02,397,83,46,162,196,1124,,16,2.68,,0.5,8,1.06,43.57,3.66
+4704,Lakes & Tanks ,"Pedda Cheruvu, Mansoorabad, Saroornagar, Rangareddy District.",3.2,6.87,744,6,0.3,,17,350,Less than 1.8,,,,8.5,5,158,88,42,1.5,0.4,Less than 0.01,180,32,24.3,56,74,456,,12,0.92,,0.5,4,0.86,46.33,2.39
+4705,Lakes & Tanks ,"Kotha Cheruvu (Alwal Cheruvu), Alwal (V),",0.3,7.15,1700,11,18.86,,11,350,Less than 1.8,,,,9.2,5,370,196,94,6,1.2,0.01,415,84,49.81,98,154,1072,,15,0.98,,0.5,12,1.26,43.61,3.28
