@@ -1,0 +1,103 @@
+Station code,water_bodies,Station name,DO (mg/L),pH,Conductivity (mS/cm),BOD (mg/L),Nitrate,Nitrite-N (mg/L),Fecal Coliform (MPN/100ml),Total Coliform (MPN/100ml),Saprobity index,Diversity index,Turbidity (NTU),Phen-Alk. (mg/L),Total Alk. (mg/L),Chloride (mg/L),COD (mg/L),TKN (mg/L),Ammonia-N  (mg/L),Hardness (mg/L),Calcium (mg/L),Magnesium (mg/L),Sulphate (mg/L),Sodium (mg/L),TDS (mg/L),TFS (mg/L),TSS (mg/L),Phosphate (mg/L),Boron (mg/L),Potassium (mg/L),Fluoride (mg/L),sodium %,SAR
+2360,River Godavari,River Godavari at Basara,6.3,7.39,476,3.2,4,0.3,2,26,,,45,38,94,46,16,30,7,105.27,24,11,22,22,281,198,30,0.55,0.65,3,0.5,29.41,0.93
+4255,River Godavari,"Ali sagar Reservior Project area , Alisagar (V), Yedapally (M), Nizamabad Dist.",7.9,7.82,224,2.8,3,0.1,Nil,17,,,9,16,98,21,20,18,8,113.5,24,13,12,10,130,92,10,0.16,1,3,0.25,15.56,0.41
+4227,River Godavari,"Pochara Water Falls, Adilabad",7.1,8.02,530,2.4,16,2.1,Nil,22,,,12,15,132,49,15,20,6,179.07,42,18,22,18,312,231,18,0.29,1.1,7,0.39,17.15,0.58
+2361,River Godavari,"River Godavari at mancherial, Near Rail Way Bridge B/C of Rallavagu",4.6,8.15,395,4,1.15,,NIL,168,,,6.2,15,120,60,31,1.8,,138,32.8,13.61,19,39,256,,6,0.32,0.04,2,0.69,37.51,1.44
+13,River Godavari,"River Godavari at Mancherial (BM-Jan, Apr & Oct)",5.5,8.03,359,4,0.8,,NIL,120,,,8.45,20,126,49,30,NIL,,132,33.6,11.66,24,30,230,,9,0.2,0.06,1,0.72,32.76,1.13
+2364,River Godavari,River Godavari at Ramagundam upstream near dam,7.1,8.13,412,2,1.11,,NIL,58,,,11.3,20,132,85,32,NIL,,155.84,36,16,54,52,282,,9,0.26,0.07,2,0.62,41.52,1.81
+3054,River Godavari,"Outlet of ash pond effluents of M/s.NTPC, Ramagundam",5.27,10.83,1135,6,0.51,,16,75,,,8,40,275,136,49,4.2,,191.42,42,21,72,99,713,,36,0.15,0.06,4,1.21,51.81,3.1
+2362,River Godavari,D/s of River Godavari at Ramagundam near FCI intake well,5.6,8.14,520,3,0.82,,NIL,180,,,7,10,138,107,30,NIL,,160,34.4,17.98,45,58,364,,8,0.42,0.03,2,0.76,43.54,1.99
+2363,River Godavari,River Godavari at Godavarikhani near bathing ghat,6.7,7.86,497,3,1.62,,14,150,,,11,10,146,121,43,NIL,,223.19,58,19,59,69,324,,28,0.89,0.02,2,0.68,39.82,2
+2356,River Godavari,River Godavari d/s of Ramagundam at Manthani,7,8.26,572,3,0.69,,NIL,126,,,6,15,125,138,32,NIL,,183.03,37,22,60,88,408,,21,0.15,0.02,4,0.99,50.26,2.82
+2365,River Godavari,"U/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., intake well",6.3,7.56,248,2,0.6,,NIL,12,,,12,0,96,14,10,NIL,,96.15,22,10,7,8,150,,10,0.04,Less than 0.01,2,0.56,14.91,0.35
+2366,River Godavari,"D/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., discharge point",6,7.78,276,3,0.8,,NIL,18,,,19,0,102,16,12,NIL,,109.54,29,9,10,10,158,,12,0.04,0.02,2,0.65,16.19,0.41
+2367,River Godavari,U/s of river Godavari at Bhadrachalam bathing ghat,6.6,7.55,189,2,0.58,,NIL,27,,,18,0,74,14,12,NIL,,82,18,8.99,4,8,128,,10,0.03,Less than 0.01,2,0.69,16.98,0.38
+2368,River Godavari,D/s of river Godavari at Bhadrachalam bathing ghat,6,7.37,213,3,0.66,,NIL,84,,,21,0,80,20,14,1.9,,92,24,7.78,7,10,143,,18,0.03,BDL,2,0.8,18.63,0.45
+2369,River Godavari,River Godavari at Burgampahad,6.1,7.57,238,3,0.79,,NIL,114,,,20,0,82,26,16,BDL,,92,25.6,6.8,8,12,150,,13,0.03,BDL,3,0.57,21.33,0.54
+4256,River Godavari,"Lower Manair Dam, Karimnagar",6,7.64,397,4,0.62,,NIL,32,,,4.78,0,135,34,47,NIL,,155,42,12.15,18,21,240,,9,0.07,0.02,2,0.88,22.4,0.73
+1158,River Godavari,"River Maneru at Somanpally (BM-Jan, Apr & Oct)",6.26,8.16,559,4,0.62,,NIL,132,,,2.61,20,160,63,36,NIL,,168,39.2,17.01,38,52,346,,26,0.67,0.03,3,0.96,39.56,1.74
+4257,River Godavari,"Maneru river D/S of municipal dump site, Karimnagar",Sample couldn't be collected as source points were dried up,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1215,River Godavari,River Maneru at Thummala cheruvu/Madannapet,5.4,7.55,246,3,1.4,,NIL,102,,,10.8,0,102,22,18,NIL,,110,23.2,12.64,9,16,175,,19,0.04,0.02,4,0.72,23.1,0.66
+4249,River Godavari,"Rangasamudram, Warangal",4.1,7.5,1014,8,2.4,,11,256,,,20,0,240,140,75,1.8,,251.84,53,29,63,94,642,,10,0.91,0.15,5,0.8,44.03,2.57
+1157,River Godavari,River Manjeera at Raipally,5.6,7.77,345,2,8,0.75,3,26,,,30,20,60,28,13,20,8,94.54,23,9,12,12,211,142,28,0.59,0.45,4,0.52,20.67,0.54
+4258,River Godavari,"Singur Dam Reservoir, Sangareddy",7.5,8.17,367,1.2,10,0.28,Nil,17,,,27,22,90,35,39,30,10,129.38,32,12,14,14,221,139.23,25,0.58,0.4,6,0.6,18.1,0.53
+1781,River Godavari,Manjeera at Ganapathi sugars,6.7,8.57,830,2,10,0.5,3,22,,,32,18,98,76,16,38,7,111.88,25,12,25,28,586,354,30,0.68,0.3,6,0.45,33.62,1.15
+2374,River Godavari,U/s of River Manjeera at Gowdicherla atfter confluence with Nakkavagu,6.2,7.22,1371,5,20,0.6,3,50,,,42,26,265,122,40,32,12,190.53,40,22,32,98,878,637,25,0.59,0.3,11,0.6,50.87,3.08
+2375,River Godavari,D/s of River Manjeera at Gowdicherla atfter confluence with Nakkavagu,5.9,6.77,1123,2.8,25,0.72,5,70,,,58,35,210,110,22,40,14,241.11,52,27,32,92,670,521,175,0.5,0.32,5,0.59,44.55,2.57
+4226,River Godavari,"River Manjeera at Yedu Payala Temple, Medak District",4.5,7.49,991,5,10,0.1,nil,10,,,4,20,150,72,40,12,4,163.19,34,19,36,46,592,452,24,0.25,0.6,15,0.62,35.29,1.56
+2372,River Godavari,Kinnerasani after confluence of KTPS ash pond effluents,6.3,7.82,514,4,0.93,,NIL,117,,,88,0,176,61,35,4.2,,170,34,20.66,28,45,365,,45,0.03,Less than 0.01,4,1.6,35.7,1.5
+2373,River Godavari,Kunavaram at Sabari,6.5,7.12,94,2,0,,NIL,10,,,6,0,32,8,8,BDL,,36,8,3.89,4,6,60,,6,0.04,BDL,1.6,0.42,25.43,0.43
+4250,River Godavari,"Palair Reservoir, Khammam",6.2,7.76,389,3,0.27,,NIL,24,,,4.62,0,118,56,12,BDL,,112,25.6,11.66,18,48,284,,8,0.05,0.08,2,1.89,47.54,1.97
+4251,River Godavari,"D/S of Munneru River, Prakash Nagar, Khammam",3.3,7.8,489,6,2.3,,2,340,,,8.74,0,152,46,42,1.4,,166,28,23.33,26,36,312,,16,0.04,0.12,3,0.82,31.39,1.21
+3080,River Godavari,U/s of Karakavagu at Paloncha,6.6,7.66,464,3,0.8,,NIL,14,,,26,0,146,45,24,1.4,,165,27.2,23.57,23,32,295,,18,0.03,0.06,3,0.82,29.03,1.08
+3081,River Godavari,D/s of Karakavagu at Paloncha,6.4,7.54,630,4,1.89,,NIL,115,,,20,0,192,61,35,1.4,,196,37.6,24.79,34,54,384,,30,0.07,0.02,4,0.65,36.71,1.67
+2349,River Godavari,Nakka vagu at Bachugudem,4.9,7.07,1210,19,52,0.6,3,50,42,34,105,88,197,97,78,108,14,193.03,41,22,72,145.78,712,548,36,1.01,0.82,19,1.8,59.19,4.55
+1784,River Krishna,River Krishna at Thangadi,5.2,7.77,780,4,1.3,,90,222,,,23,0,220,58,15,1,,169.07,38,18,29,50,470,,27,0.07,0.03,2,0.43,38.65,1.67
+39,River Krishna,"River Krishna at Gadwal bridge (BM-Jan, Apr & Oct)",5.1,7.8,720,4,1.1,,60,148,,,21,0,160,62,28,1.2,,135.84,28,16,37,43,410,,20,0.04,0.42,2,0.59,40.17,1.6
+4225,River Krishna,"Jogulamba Temple, Gadwal",5.4,7.5,620,2,0.9,,80,240,,,44,0,180,62,19,0.2,,168.19,36,19,42,48,420,,56,0.06,0.21,4,0.55,37.45,1.6
+4259,River Krishna,Sample from Nagarjuna Sagar Dam Spill way,7.7,8.23,535,4.3,8,0.45,Nil,26,,,7,12,120,59,36,10,4,172.46,41,17,40,28,320,226,9,0.19,1.5,2,0.45,25.71,0.92
+1465,River Krishna,River krishna at wadapally,7.1,7.94,915,3,21,0.7,5,40,,,25,20,160,115,40,35,12,362.84,76,42,53,59,553,402,32,0.67,0.68,10,0.7,25.34,1.34
+4252,River Krishna,"Udaya Samudram balancing Reservoir, Panagal (V), Nalgonda (Town & District)",7.3,8.05,598,2.8,9,0.12,Nil,35,,,3.8,10,130,52,22,24,1.9,207.88,42,25,40,36,361,234.11,25,0.32,1,7,0.58,26.4,1.08
+1172,River Musi,"U/s of Musi at Gandipet (Osmansagar lake) (BM-Jan, Apr & Oct)",5.4,7.48,340,3,0.28,,NIL,103,,,4.48,0,115,31,48,BDL,,125,26,14.58,10,22.57,190,,6,0.92,0.24,2,0.24,27.66,0.88
+4253,River Musi,Musi sample at Bapughat sangam U/S of Musi,NIL,7.38,1513,28,14,,80,280,,,15,0,370,192,186,2.8,,359.45,73,43,96,158,977,,16,5.1,0.02,14,0.88,47.5,3.61
+2339,River Musi,River Musi at Nagole,NIL,7.12,1180,28,10.16,,650,920,,,90.3,0,280,140,199,6,,265,50,34.02,71,114,812,,187,9.55,0.13,13.7,1.51,46.57,3.03
+1173,River Musi,"D/s. of Musi at Pratapasingaram (BM-Jan, Apr & Oct)",1,7.48,1188,27,10,,354,680,,,35.2,0,225,218,104,4.2,,302,63.2,34.99,80,140,744,,88,4.63,0.12,13,1.68,48.71,3.49
+4254,River Musi,River Musi sample at Rudravelly bridge,4.4,7.44,1630,8,20,0.5,10,120,,,18,10,245,231,59,25,8,269.92,52,34,50,108,1142,867,14,0.68,1.6,2.5,0.85,46.07,2.85
+3082,River Musi,River Musi at Kasaniguda,6.8,8.17,1736,8,22,0.59,6,40,,,32,28,276,182,41,32,14,372.99,85,39,60,112,1023,737,45,0.65,0.79,18,0.82,37.95,2.51
+1391,GHMC Areas Lakes /Tanks/ Cheruvus,Hussain sagar Lake,NIL,7.49,1204,22,14.25,,340,530,,,4.34,0,225,178,132,5.6,,366.95,76,43,42.14,99,840,,12,8,0.08,10,1.68,36.04,2.24
+3071,GHMC Areas Lakes /Tanks/ Cheruvus,Langarhouse lake,NIL,7.26,1140,24,4.9,,249,540,,,16,0,290,139,160,8,,320.96,79,30,69,114,774,,61,11.7,0.07,15.8,1.59,41.96,2.76
+2341,GHMC Areas Lakes /Tanks/ Cheruvus,Miralam tank,1.2,7.52,1355,12,10.87,,129,540,,,9,0,265,188,84,2.8,,305.96,73,30,67.94,148,940,,12,6.54,0.13,14,1.53,49.71,3.67
+3073,GHMC Areas Lakes /Tanks/ Cheruvus,"Hasmathpet lake, Hasmathpet",NIL,7.4,1210,18,8.71,,570,875,,,19,0,290,149,116,2.8,,317.5,75,31.59,42,112,869,,47,8.46,1.62,15.1,1.62,41.84,2.73
+3072,GHMC Areas Lakes /Tanks/ Cheruvus,Safilguda lake,NIL,7.63,1340,12,8.09,,586,986,,,10,0,288,194,98,2.8,,385,54,60.75,38,90,840,,14,7.62,1.71,15.3,1.71,32.43,1.99
+3075,GHMC Areas Lakes /Tanks/ Cheruvus,Rangadhamuni cheruvu,NIL,7.49,1043,16,14.8,,270,920,,,9,0,244,130,100,4.2,,250,52,29.16,38,98,638,,29,10.35,1.6,8.9,1.6,44.76,2.69
+3076,GHMC Areas Lakes /Tanks/ Cheruvus,"Amber cheruvu, Kukatpally",NIL,7.55,1240,32,16.29,,312,920,,,34.2,0,270,178,207,2.8,,265,44,37.66,46,140,836,,146,9.52,1.41,15,1.41,51.54,3.73
+3077,GHMC Areas Lakes /Tanks/ Cheruvus,"Kapra cheruvu, Kapra",2.1,8.05,1312,10,2.98,,324,540,,,5,0,269,207,76,1.4,,362.99,81,39,59,98,812,,12,5.87,1.7,13.9,1.7,35.75,2.23
+2357,GHMC Areas Lakes /Tanks/ Cheruvus,Durgam cheruvu,1.4,7.91,1104,9,13.9,,143,420,,,12,0,190,172,92,1.4,,270,86,13.37,73,98,691,,15,3.47,0.07,12.1,1.08,42.67,2.59
+2344,IDA Lakes,Nalla cheruvu,Lake was closed by HMDA (flow diverted directly in to Musi),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2359,IDA Lakes,Pedda cheruvu,1,7.46,1344,11,28.46,,379,750,,,19,0,310,160,114,4.2,,299.92,64,34,68,135,844,,23,12.1,0.12,10,2,48.27,3.38
+2342,IDA Lakes,Noor Md. Kunta,NIL,7.49,2150,31,7.34,,480,1600,,,33,0,460,390,199,7,,391.22,89,41,43.43,300,1275,,99,4.3,0.92,13.8,1.27,61.34,6.58
+3070,IDA Lakes,"Fox sagar, Jeedimetla",1.4,7.78,1224,8,1.37,,227,420,,,6,0,310,220,56,1.4,,326.38,68,38,23,98,743,,7,1.23,1.08,5.6,1.5,38.84,2.35
+1780,IDA Lakes,Gandigudem Tank,7.9,7.69,2295,24,50,0.3,6,170,,,40,28,240,308,82,40,19,318.46,78,30,70,168,1401,973,64,0.59,0.75,20,0.68,51.38,4.08
+2358,IDA Lakes,Mallapur tank,NIL,7.58,1610,41,4.59,,420,960,,,,,422,170,265,98,20,392.69,83,45,68,111,986,684,62,,1.9,18,1.87,36.6,2.43
+2347,IDA Lakes,Asani Kunta,-,7.27,8120,170,52,0.91,36,150,,,240,128,940,1198,1120,310,26,1312.28,278,150,112,557,4544,3274,350,0.86,0.98,180,0.75,43.85,6.67
+1783,IDA Lakes,Kistareddypet Tank,4.9,7.05,4950,30,39,0.8,10,35,,,50,35,470,596,98,54,15,928.45,215,95,92,212,3032,2332,45,0.7,0.56,39,0.89,31.91,3.02
+2348,IDA Lakes,Khazipally Tank,5.8,7.1,5450,14,32,0.8,  -,  -,,,30,40,388,1340,95,50,12,1509.36,370,142,125,390,3505,2350.82,36,0.77,0.98,24,0.95,35.4,4.35
+4302,IDA Lakes,"Rudraram Tank, Rudraram (V), Patancheru (M), Sangareddy District",7,6.78,2071,7,33,0.5,6,40,,,30,36,168,302,65,30,12,372.11,83,40,40,124,1199,876,29,0.59,0.64,22,0.52,40.12,2.79
+4240,IDA Lakes,"Muthangi Tank, Muthangi (V), Patancheru (M), Sangareddy District",7.1,7.54,1160,10,6,0.38,5,40,,,18,20,210,176,49,26,10,225.38,49,25,22,110,699,487,45,0.52,0.59,8,0.59,50.23,3.18
+4241,IDA Lakes,"Chitkul Tank, Chitkul (V), Patancheru (M), Sangareddy district.",6.5,7.12,1709,12.6,25,0.49,5,70,,,38,28,188,240,55,42,13,330.49,68,39,45,106,996,644.41,30,0.68,0.62,14,0.5,39.67,2.53
+4242,IDA Lakes,"Lakadaram Cheruvu, Lakadaram (V), Patancheru (M), Sangareddy district.",4.2,7.25,1452,5,18,0.36,Nil,26,,,30,20,172,280,46,30,12,293.3,63,33,30,119,851,582.94,32,0.65,0.52,11,0.4,45.56,3.01
+4243,IDA Lakes,"Isnapur Tank, Isnapur (V), Patancheru (M), Sangareddy district.",5.1,6.99,6150,68,45,1.75,10,120,,,78,65,360,1140,510,98,15,1012.37,214,116,89,398,3856,2842,220,1.9,0.79,96,1.32,43.12,5.42
+4246,IDA Lakes,Pashamylaram Tank,"Sample was not collected as details has been submitted  through mail by RO-SRD-I i.e, 7/2/2018  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3074,HMDA Area Lakes,Banjara Lake,NIL,7.06,940,26,3.9,,679,1140,,,48,0,275,88,167,1.4,,275.07,59,31,44,93.03,691,,103,7.56,0.28,16.44,1.34,40.45,2.43
+1789,HMDA Area Lakes,"Himayathsagar lake (BM-Jan, Apr & Oct)",5.6,9.2,321,3,0.31,,17,91,,,2.52,0,80,27,31,BDL,,91.15,20,10,28,34,185,,3,0.65,0.66,2,0.66,43.96,1.54
+3069,HMDA Area Lakes,"Shameerpet lake, Shameerpet",3.9,7.48,488,4,1,,9,21,,,19,0,110,70,44,0,,125,26,14.58,24,46,316,,40,1.01,0.78,5.94,0.78,42.85,1.78
+3078,HMDA Area Lakes,"Pragathinagar cheruvu, Kukatpally",NIL,7.46,1243,28,6.1,,290,540,,,23.8,0,285,178,179,8,,279.19,59,32,49,144,762,,112,10.81,1.37,14.4,1.37,51.12,3.74
+2340,HMDA Area Lakes,Lakshminarayana cheruvu,2.8,7.8,1388,11,1.8,,123,330,,,24,0,260,120,118,1.4,,306.53,65,35,54,174.9,889,,69,1.63,0.08,8,1.4,54.41,4.33
+1788,HMDA Area Lakes,"Saroornagar Lake (BM-Jan, Apr & Oct)",NIL,7.22,1088,20,11.3,,304,580,,,16,0,315,120,147,3.4,,330,80,31.59,62,135,788,,76,12.1,0.7,11.1,1.87,45.9,3.22
+4236,HMDA Area Lakes,Pedda Cheruvu (Nacharam cheruvu),1,7.32,1320,24,19.3,,540,1600,,,16.9,0,370,176,173,3.4,,360,96,29.16,38,127,880,,15,4.81,BDL,18,1.19,41.79,2.9
+4234,HMDA Area Lakes,"Umda sagar lake, Shamshabad",2.4,8.65,1140,16,1.37,,94,1200,,,15,20,215,128,108,4.2,,250,64,21.87,86,114,644,,19,0.14,0.83,13,1.05,48.06,3.13
+1464,OTHER AREA LAKES,Bibinagar Tank,4.9,7.91,595,6,13,0.48,5,100,,,42,30,102,87,59,35,14,158.19,32,19,28,38,358,225.54,30,0.6,0.56,10,0.79,32.45,1.31
+3086,OTHER AREA LAKES,Saki Tank,4.1,7.53,1231,6,22,0.59,Nil,40,,,36,20,210,150,40,30,9,235.38,53,25,58,120,773.68,518,20,0.72,0.58,14,0.9,50.61,3.39
+3068,OTHER AREA LAKES,Ramappa lake,6.2,7.44,224,2,0.52,,NIL,10,,,53,0,95,12,10,NIL,,105,22,12.15,8,15,138,,8,0.02,Less than 0.01,2,0.49,23.16,0.63
+1447,OTHER AREA LAKES,Dharmasagar tank,5.9,7.45,272,3,0.1,,NIL,108,,,19,0,75,33,20,NIL,,94.54,23,9,13,18,168,,16,0.14,0.05,3,0.44,28.36,0.8
+2346,OTHER AREA LAKES,Bhadrakali tank,5.7,7.93,486,3,0.75,,NIL,80,,,18,0,110,49,18,NIL,,179.07,42,18,31,48,316,,15,0.18,BDL,2,0.38,36.37,1.56
+3084,OTHER AREA LAKES,"Waddepally tank, Kazipet",5.4,7.83,578,8,0.65,,NIL,89,,,22,0,175,57,32,2.2,,215.38,45,25,25,32,342,,34,0.16,BDL,4,0.83,23.88,0.95
+3085,OTHER AREA LAKES,Chinnawaddepally tank,4.97,7.93,1238,20,2.36,,6,450,,,16,0,265,218,129,2.8,,295.8,64,33,92,168,887,,38,0.36,BDL,13,0.79,53.76,4.23
+2343,OTHER AREA LAKES,Premajipet tank,NIL,7.28,4440,32,4.16,,540,1600,,,16.2,0,365,950,223,5.6,,1273.74,256,154,346,240,2980,,22,3.56,0.78,9.5,1.51,28.74,2.91
+2345,OTHER AREA LAKES,Sai Cheruvu,3.6,8.37,3460,38,7,,NIL,520,,,29,0,286,596,197,5.4,,1856.81,374,224,126,652,2165,,20,0.05,0.17,48,1.35,42.34,6.56
+4222,OTHER AREA LAKES,"Koneru, Kondagattu temple, Jagitiyal",NIL,7.62,1453,19,0.5,,92,680,,,10,0,274,129,93,1.2,,271.69,56,32,51,98,822,,18,0.41,0.02,4,0.8,43.35,2.58
+4223,OTHER AREA LAKES,"Vemulawada temple Koneru , Karimnagar",1.6,6.86,1018,34,0.8,,NIL,240,,,14,0,258,140,149,1.8,,375,92,35.23,63,72,608,,26,0.17,0.02,2,0.67,29.21,1.61
+4228,OTHER AREA LAKES,"Ibrahim Cheruvu, Rajendra Nagar",Less than 0.1,7.34,1605,28,11.15,,158,470,,,15,0,335,183,161,4.2,,411.65,84,49,108,144,1033,,27,3.98,0.08,19,1.1,41.65,3.08
+4230,OTHER AREA LAKES,"Kistaipally Cheruvu, Kistaipally Village, Jinnaram Mandal, Sangareddy District",6.2,7.41,3640,12.8,19,1.58,4,35,,,4.5,29,460,760,85,16,4,908.29,202,98,117,306,2178,1782,29,0.18,1.2,62,1.15,40.12,4.4
+4231,OTHER AREA LAKES,"Rayam Cheruvu, Bonthapally Village, Jinnaram Mandal, Sangareddy District",4.4,7.36,941,8,34,0.45,32,42,,,2.1,32,228,110,56,6.2,1.5,245.23,52,28,45,57,564,377,20,0.1,0.9,10,0.75,32.32,1.58
+4232,OTHER AREA LAKES,"Komati Cheruvu, Siddipet Town, Siddipet District",7.4,7.4,672,5,8,1.35,3,70,,,3.2,10,168,75,50,8,0.7,181.42,38,21,22,42,398,288,28,0.16,1.15,9,1.12,32,1.35
+4235,OTHER AREA LAKES,Lake Kamuni( Shamshabad Lake),0.4,8.04,1345,20,2.51,,170,340,,,10,14,244,223,109,2.8,,380,79.2,44.23,140,128,915,,17,0.15,0.13,13,0.95,41.09,2.85
+4233,OTHER AREA LAKES,"Gaddapotharam cheruvu, Gaddapotharam village, Jinnaram mandal, Sangareddy dist",6.8,7.07,5010,30,28,0.3,6,150,,,4.1,30,345,1080,138,12,5.6,1353.74,288,154,140,280,2986,2451,55,0.19,1.3,48,1.69,29.96,3.3
+4237,OTHER AREA LAKES,"Mullakatwa Cheruvu, Hi Tech City, Madhapur,",Less than 0.1,7.44,1774,25,12.17,,314,620,,,13,0,355,210,190,4.2,,420,88,48.6,134,180,1140,,16,4.46,0.78,14,1.08,47.05,3.81
+4238,OTHER AREA LAKES,"Ameenpur Cheruvu, Ameenpur (V&M), Sangareddy District",7.4,7.02,1209,10,24,0.42,6,120,,,25,32,200,220,48,34,16,231.11,48,27,35,117,728,454.64,38,0.62,0.5,12,0.6,50.64,3.34
+4239,OTHER AREA LAKES,"Mahaboobsagar Tank, Sangareddy (V&M), Sangareddy District",6.8,7.53,1163,9,14,0.3,2,42,,,22,25,228,146,50,35,11,190.53,40,22,25,108,684,487,28,0.65,0.6,6,0.68,54.08,3.39
+4244,OTHER AREA LAKES,"Erdanoor Tank, Erdanoor (V), Sangareddy district.",7.5,7.25,2320,11.8,33,0.2,3,36,,,22,25,192,268,79,40,12,453.99,96,52,64,102,1384,1021,36,0.6,0.55,12,0.8,31.96,2.08
+4245,OTHER AREA LAKES,"Mallepally Tank, Mallepally (V), Kondapur (M), Sangareddy district.",7.6,8.32,3240,14,36,0.3,4,36,,,20,24,310,382,70,45,9,629.99,145,65,48,98,2153,1580,30,0.6,0.5,16,0.7,24.58,1.69
+4247,OTHER AREA LAKES,"Mucharla Nagaram cheruvu, Warangal",3,8.26,909,12,3.76,,18,290,,,24,15,205,145,98,2.8,,165,36.8,17.74,74,111,620,,18,0.59,BDL,6,0.69,58.16,3.75
+4248,OTHER AREA LAKES,"Koti Cheruvu, Hanamkonda, Warangal",5.37,7.61,1081,26,4.9,,15,302,,,25,0,265,156,108,2.8,,284.92,58,34,68,130,704,,16,0.97,BDL,6,0.53,48.98,3.34
+4229,OTHER AREA LAKES,Neknampur Lake,Less than 0.1,7.23,1244,24,30.2,,258,550,,,13,0,310,151,161,5.6,,310.65,65,36,66,120,780,,5,2.21,0.7,16,0.91,43.93,2.95

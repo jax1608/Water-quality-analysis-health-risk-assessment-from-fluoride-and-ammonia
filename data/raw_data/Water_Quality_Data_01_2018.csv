@@ -1,0 +1,65 @@
+Station code,water_bodies,Station name,DO (mg/L),pH,Conductivity (mS/cm),BOD (mg/L),Nitrate-N (mg/L),Nitrite-N (mg/L),Fecal Coliform (MPN/100ml),Total Coliform (MPN/100ml),Saprobity index,Diversity index,Turbidity (NTU),Phen-Alk. (mg/L),Total Alk. (mg/L),Chloride (mg/L),COD (mg/L),TKN (mg/L),Ammonia-N  (mg/L),Hardness (mg/L),Calcium (mg/L),Magnesium (mg/L),Sulphate (mg/L),Sodium (mg/L),TDS (mg/L),TFS (mg/L),TSS (mg/L),Phosphate (mg/L),Boron (mg/L),Potassium (mg/L),Fluoride (mg/L),sodium %,SAR
+2360,River Godavari,River Godavari at Basara,6.5,8.15,461,3.4,5.5,0.42,12,40,,,29,32,84,42,22,3,Less than  1,146,32,16,36,24,254,195,15,0.56,0.52,11,0.6,23.95,0.86
+2361,River Godavari,"River Godavari at mancherial, Near Rail Way Bridge B/C of Rallavagu",5.1,8.51,441,4.5,2.2,,NIL,28,,,2.89,8,158,44,48,Less than  1,Less than  1,202,39.2,25.27,28,23,266,190,8,0.01,0.1,3,0.76,19.34,0.7
+13,River Godavari,"River Godavari at Mancherial (BM-Jan, Apr & Oct)",5,8.52,440,3,3.8,,NIL,12,,,7.2,12,160,38,45,Less than  1,Less than 1,164,29.6,21.87,25,28,272,186,8,0.08,0.5,3,0.76,26.33,0.95
+2364,River Godavari,River Godavari at Ramagundam upstream near dam,5,8.39,542,3,4,,NIL,23,,,6.79,10,160,65,31,Less than  1,Less than  1,180,31.2,24.79,27,41,310,230,6,0.01,0.5,3,0.9,32.34,1.32
+2362,River Godavari,D/s of River Godavari at Ramagundam near FCI intake well,4.9,8.49,604,3,4.2,,NIL,16,,,2,10,162,52,32,Less than  1,Less than  1,210,35.2,29.65,34,30,344,259,12,0,0.6,3,0.88,23.13,0.9
+2363,River Godavari,River Godavari at Godavarikhani near bathing ghat,4.9,7.76,712,3,5,,NIL,11,,,6.98,4,182,68,24,Less than  1,Less than  1,226,40,30.62,38,46,410,310,21,0.48,0.2,4,0.59,29.9,1.33
+2356,River Godavari,River Godavari d/s of Ramagundam at Manthani,4.9,8.18,912,4,5.6,,NIL,52,,,15.1,10,225,90,27,Less than  1,Less than  1,274,52.8,34.51,40,68,534,391,10,0.04,0.2,4,0.99,34.34,1.78
+2365,River Godavari,"U/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., intake well",6.2,8.44,420,3,0.4,,NIL,32,,,6,8,134,36,16,Less than  1,Less than  1,146,38,12.39,15,35,247,175,11,0.05,Less than 0.1,2.78,0.69,33.44,1.26
+2366,River Godavari,"D/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., discharge point",6,8.3,468,4,0.8,,NIL,36,,,9,7,154,38,20,Less than  1,Less than  1,155,30,19.44,12,39,284,200,24,0.03,Less than 0.01,4,0.77,34.23,1.36
+2367,River Godavari,U/s of river Godavari at Bhadrachalam bathing ghat,6,8.34,265,2,0.58,,Nil,120,,,7,10,110,12,10,Less than  1,Less than  1,105,22,12.15,8,13,159,111,4,0.01,Less than 0.01,1,0.82,20.84,0.55
+2368,River Godavari,D/s of river Godavari at Bhadrachalam bathing ghat,5.8,8.28,295,2,0.13,,Nil,148,,,2,10,120,18,18,Less than  1,Less than  1,128,34,10.45,10,12,185,125,5,0.01,Less than 0.01,1,0.63,16.69,0.46
+2369,River Godavari,River Godavari at Burgampahad,4.9,8.11,342,3,0.68,,Nil,142,,,4,9,120,29,26,Less than  1,1,125,28,13.37,12,23,212,145,4,0.01,Less than 0.01,3,0.7,27.65,0.89
+1158,River Godavari,"River Maneru at Somanpally (BM-Jan, Apr & Oct)",5.2,8.41,437,4,4,,NIL,38,,,2.2,4,134,44,31,1.1,Less than  1,142,36.8,12.15,22,55,244,189,9,0.07,0.2,2,0.79,45.01,2
+1215,River Godavari,River Maneru at Thummala cheruvu/Madannapet,4.8,7.68,289,5,1.83,,NIL,26,,,5,7,102,26,26,Less than  1,Less than 1,120,26,13.37,5,11,176,124,20,0.04,Less than  0.1,2,0.93,16.15,0.44
+1157,River Godavari,River Manjeera at Raipally,7.2,8.5,370,4,6.6,0.6,4,40,,,35,27,68,32,26,1,1.1,114,26,12,15,18,212,152,29,0.38,0.29,6,0.52,23.79,0.73
+1781,River Godavari,Manjeera at Ganapathi sugars,6.8,7.51,694,3,8.5,0.59,7,69,,,36,30,238,144,29,Less than  1,1.1,104,25,10,22,35,406,301,24,0.42,0.36,6,0.6,39.92,1.49
+2374,River Godavari,U/s of River Manjeera at Gowdicherla atfter confluence with Nakkavagu,6.6,7.66,816,4,11,0.52,6,37,,,40,28,216,128,26,Less than  1,1,212,52,20,52,78,487,347,72,0.36,0.42,15,0.65,41.48,2.32
+2375,River Godavari,D/s of River Manjeera at Gowdicherla atfter confluence with Nakkavagu,6.4,7.8,1545,4.8,13,0.54,8,60,,,52,36,256,162,32,Less than  1,1.1,344,72,40,70,96,952,666,178,0.4,0.5,10,0.89,36.45,2.24
+2372,River Godavari,Kinnerasani after confluence of KTPS ash pond effluents,3.9,8.3,486,4,0.26,,NIL,32,,,31,15,145,49,14,Less than  1,1,175,40,18.22,8,32,304,209,71,0.1,Less than  0.1,6,0.73,27.19,1.05
+2373,River Godavari,Kunavaram at Sabari,6.2,7.57,98,BDL,0.38,,Nil,2,,,2,12,32,10,6,Less than  1,Less than  1,46,12,3.89,3,2,65,42,4,0.01,Less than  0.1,1,0.46,8.32,0.13
+3080,River Godavari,U/s of Karakavagu at Paloncha,5.9,8.27,529,3,0.58,,Nil,20,,,18,10,175,45,22,1.2,Less than  1,195,38,24.3,20,40,307,230,18,0.1,Less than  0.1,3,0.96,30.15,1.24
+3081,River Godavari,D/s of Karakavagu at Paloncha,5.2,8.31,562,3,1.5,,Nil,15,,,24,15,185,52,26,1,Less than  1,205,42,24.3,25,42,354,237,39,0.07,Less than  0.1,5,0.99,29.82,1.27
+2349,River Godavari,Nakka vagu at Bachugudem,4.2,7.56,1379,11,19.1,0.58,6,175,,,39,46,224,180,72,1.3,1.1,309,58,40,50,108,798,599,39,0.6,0.58,12,0.72,41.4,2.66
+3054,River Godavari,"Outlet of ash pond effluents of M/s.NTPC, Ramagundam",3,11.05,912,5,3.2,,NIL,46,,,10.6,30,182,94,35,1.5,Less than  1,222,74,8.99,78,124,601,387,12,0.01,0.21,9,1.2,53.11,3.61
+1784,River Krishna,River Krishna at Thangadi,4,8.14,698,3,0.6,,NIL,36,,,19,BDL,245,42,26,Less than 1,1,216,57.6,27.22,22,40,389,299,6,0.22,Less than  0.1,2,0.58,25,1.08
+39,River Krishna,"River Krishna at Gadwal bridge (BM-Jan, Apr & Oct)",4.6,8.16,684,3,0.68,,NIL,45,,,16.5,BDL,250,40,25,Less than  1,1,262,56,29.65,38,42,398,287,8,0.28,Less than  0.1,2,0.66,25.48,1.12
+1465,River Krishna,River krishna at wadepally,7.6,8.19,945,3.8,10.1,0.59,8,240,,,34,22,96,86,26,1.2,Less than  1,255,39,25,39,42,557,411,16,0.5,0.59,12,0.7,29.11,1.29
+1172,River Musi,"U/s of Musi at Gandipet (Osmansagar lake) (BM-Jan, Apr & Oct)",5.1,7.78,326,BDL,0.2,,Nil,20,,,4,BDL,122,22,8,Less than 1,**,110,24,12,6,15,191,140,4,0.51,0.5,4,0.84,21.81,0.62
+2339,River Musi,River Musi at Nagole,Less than  0.06,7.48,1408,30,6.3,,NIL,430,,,71,BDL,312,170,187,2,,370,88,36.45,73,117,777,616,142,2.01,0.3,10,1.29,39.53,2.64
+1173,River Musi,"D/s. of Musi at Pratapasingaram (BM-Jan, Apr & Oct)",Less than  0.06,7.49,1412,16,4.8,,NIL,200,,,23,BDL,410,210,87,2.2,,385,72,98.41,86,97,807,618,15,1.78,0.4,14,0.92,25.56,1.74
+3082,River Musi,River Musi at Kasaniguda,6.1,8.68,1293,4,7.2,0.62,8,47,,,39,25,248,186,30,1.1,Less than  1,301,68,32,48,106,717,560,20,0.56,0.42,7,0.62,42.22,2.65
+1464,Lakes and Tanks,Bibinagar Tank,6.5,8.03,880,3,6.3,0.5,5,62,,,36,30,136,110,22,1.3,Less than  1,186,56,24,25,32,457,380,26,0.65,0.52,9,0.7,21.4,0.9
+1780,Lakes and Tanks,Gandigudem Tank,5,7.34,1609,16,12,0.65,11,162,,,49,36,170,146,79,1.5,1,390,92,39,59,76,515,701,45,0.46,0.74,12,0.65,28.56,1.67
+1783,Lakes and Tanks,Kistareddypet Tank,6.2,7.28,2586,10,11,0.72,6,67,,,62,45,240,290,58,1.7,1,359,86,35,105,148,1528,1127,32,0.68,0.52,26,0.97,44.23,3.39
+2347,Lakes and Tanks,Asani Kunta,Less than  0.06,6.78,9740,127,50,1.15,8,155,,,272,179,920,1300,980,2,1.5,1410,286,169,140,325,5599,4261,259,1.9,0.9,90,1.15,30.98,3.75
+2348,Lakes and Tanks,Khazipally Tank,DRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3086,Lakes and Tanks,Saki Tank,6,7.73,860,7.5,10,0.6,5,56,,,36,24,162,128,49,1.2,1,209,36,29,32,75,516,367,28,0.62,0.49,16,0.65,40.61,2.25
+3068,Lakes and Tanks,Ramappa lake,5.8,8.14,218,3,1.83,,Nil,26,,,8,5,80,16,12,1.4,Less than  1,95,18,12.15,10,9,140,90,5,0.02,Less than  0.1,2,0.84,16.49,0.4
+1447,Lakes and Tanks,Dharmasagar tank,5.6,8.11,323,3,0.3,,Nil,18,,,6,9,120,23,20,1,Less than  1,125,28,13.37,5,20,206,1412,13,0.03,Less than  0.1,3.06,0.41,24.92,0.78
+2346,Lakes and Tanks,Bhadrakali tank,5.3,8.16,423,3,3.7,,Nil,28,,,4,8,188,78,49,Less than 1,Less than  1,190,32.8,26.24,8,52,289,178,9,0.02,Less than  0.1,4.16,0.43,36.28,1.63
+3084,Lakes and Tanks,"Waddepally tank, Kazipet",4.6,8.15,449,3,3,,Nil,36,,,8,10,168,39,30,Less than 1,Less than  1,165,28.8,22.6,5,31,290,191,14,0.01,Less than  0.1,4,0.82,28.03,1.05
+3085,Lakes and Tanks,Chinnawaddepally tank,3.2,8.16,1114,20,9.5,,Nil,263,,,21,18,185,221,135,2.3,Less than  1,275,66,26.73,82,128,722,486,67,0.59,0.62,14,0.9,48.08,3.35
+1391,Lakes and Tanks,Hussain sagar Lake,Less than  0.06,7.49,1412,15,6.2,,20,440,,,10,BDL,322,154,78,1.2,Less than  1,390,116,24.3,70,108,789,618,70,2.1,0.12,10,0.85,36.5,2.37
+3074,Lakes and Tanks,Banjara Lake,Less than  0.06,7.54,1219,20,5.8,,30,580,,,2,BDL,320,127,131,2.5,Less than  1,380,80,43.74,55,97,712,529,115,1.2,0.15,13,1.4,34.26,2.16
+3071,Lakes and Tanks,Langarhouse lake,Less than  0.06,7.37,1444,23,6.6,,40,590,,,20,BDL,344,146,175,1,Less than  1,410,82,49.81,94,114,887,629,94,2.21,0.2,12,1.24,36.39,2.44
+2341,Lakes and Tanks,Miralam tank,Less than  0.06,7.66,1457,8,4,,8,330,,,8,BDL,375,202,79,2,Less than  1,520,124,51.03,123,124,905,641,14,1.95,0.1,12,0.99,33.16,2.36
+2342,Lakes and Tanks,Noor Md. Kunta,Less than  0.06,7.78,1870,26,5.2,,20,370,,,10,BDL,560,415,186,1,Less than 1,755,130,104.49,121,240,1334,818,32,1.8,0.25,19,1.6,39.68,3.78
+1788,Lakes and Tanks,"Saroornagar Lake (BM-Jan, Apr & Oct)",Less than  0.06,7.58,1598,28,8.6,,60,540,,,35,BDL,322,190,170,Less than 1,Less than  1,420,106,37.66,81,140,888,698,108,3.55,0.1,6,1.42,41.32,2.96
+1789,Lakes and Tanks,"Himayathsagar lake (BM-Jan, Apr & Oct)",5.6,8.28,312,1,0.2,,Nil,20,,,10,20,120,26,6,Less than 1,**,142,26.4,18.47,10,12,188,135,6,0.7,Less than  0.1,2,0.99,15.12,0.44
+3069,Lakes and Tanks,"Shameerpet lake, Shameerpet",4.1,8.1,435,2,0.3,,NIL,20,,,4,BDL,122,51,16,Less than  1,,160,40,14.58,24,31,280,187,9,1.67,0.03,4,0.15,28.67,1.06
+3073,Lakes and Tanks,"Hasmathpet lake, Hasmathpet",Less than  0.06,7.52,1543,18,14.2,,NIL,690,,,17.6,BDL,388,179,95,Less than  1,1,405,126,44.95,55,98,912,674,23,3.64,Less than  0.1,13,1.3,28.88,1.9
+3070,Lakes and Tanks,"Fox sagar, Jeedimetla",0.9,7.21,980,11,0.3,,NIL,280,,,16.8,BDL,225,180,51,Less than  1,Less than 1,390,82,44.95,81,60,614,428,12,1.98,Less than  0.1,8,0.95,24.31,1.32
+3072,Lakes and Tanks,Safilguda lake,Less than  0.06,7.72,1541,16,3.2,,NIL,540,,,7,BDL,380,190,127,Less than  1,1,460,118,40.09,83,126,968,671,20,3.21,Less than  0.1,8,0.97,36.53,2.55
+2343,Lakes and Tanks,Premajipet tank,1.1,7.26,3270,18,3,,40,450,,,7,BDL,312,588,163,1,Less than  1,1060,212,128.79,412,574,2054,140,11,3.1,0.36,12,1.54,53.44,7.64
+2358,Lakes and Tanks,Mallapur tank,Less than  0.06,7.42,2002,28,12.2,,60,490,,,14,BDL,512,244,234,1,Less than  1,545,108,66.83,122,208,1258,872,76,3.12,0.2,18,0.87,43.83,3.86
+2345,Cheruvus,Sai Cheruvu,1,7.86,11260,142,15.4,,Nil,623,,,85,BDL,380,3282,694,2.8,1.1,940,96,170.1,370,1010,7320,888,36,0.06,0.94,48,1.34,68.04,14.26
+3075,Cheruvus,Rangadhamuni cheruvu,1.9,7.82,1462,18,12.4,,10,514,,,15.4,BDL,370,150,125,3,1,520,94,44.95,65,99,812,659,22,2.79,Less than  0.1,10,0.95,32.87,2.09
+3076,Cheruvus,"Amber cheruvu, Kukatpally",1.4,7.66,1306,16,4.2,,12,250,,,19,BDL,312,170,151,1.2,Less than  1,380,86,40.09,97,127,822,570,85,3,0.12,10,1.65,40.88,2.82
+3077,Cheruvus,"Kapra cheruvu, Kapra",3.7,7.38,1189,9,3.2,,12,285,,,13,BDL,300,144,95,1.5,1,430,126,27.95,46,68,690,520,13,1.23,Less than  0.1,6,0.73,25.07,1.42
+3078,Cheruvus,"Pragathinagar cheruvu, Kukatpally",1.9,7.67,1301,18,9.8,,20,280,,,3,BDL,344,168,164,1.5,1,400,88,43.74,45,123,816,566,74,2.1,Less than  0.1,8,1.08,39.12,2.67
+2344,Cheruvus,Nalla cheruvu,Less than  0.06,7.7,1607,22,3.4,,40,480,,,17,BDL,456,169,156,1.8,Less than 1,445,76,89.91,68,94,880,701,43,2.13,Less than  0.1,3,2.02,26.4,1.72
+2357,Cheruvus,Durgam cheruvu,2.1,7.45,1007,7,2.2,,10,500,,,15,BDL,250,134,45,2,Less than 1,370,82,40.09,78,68,620,437,5,2,0.05,5,1.51,27.97,1.53
+2359,Cheruvus,Pedda cheruvu,Less than  0.06,7.46,1968,29,4.2,,8,236,,,19,BDL,460,244,175,2.5,1,504,64,49.81,98,187,1131,860,31,2.56,Less than  0.1,2.5,2.73,52.23,4.24
+2340,Cheruvus,Lakshminarayana cheruvu,2.9,8.56,1197,10,5.2,,NIL,164,,,9,BDL,244,184,79,1.3,Less than  1,340,84,31.59,50,95,709,522,9,1.33,Less than  0.1,12,0.71,36.31,2.23
